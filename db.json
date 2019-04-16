@@ -1,5 +1,8 @@
 {
-  "posts": [
+  "filename": "db.json",
+  "status": true,
+  "message": "test",
+  "data": [
     {
       "id": 13,
       "title": "Howdy"
