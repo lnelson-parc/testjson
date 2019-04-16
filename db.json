@@ -1,18 +1,11 @@
 {
   "posts": [
     {
-      "id": 1,
-      "title": "hello"
+      "id": 13,
+      "title": "Howdy"
     }
   ],
   "profile": {
     "name": "typicode"
   }
-}
-Get instantly a fake server
-
-my-json-server.typicode.com/user/repo/posts/1
-{
-  "id": 1,
-  "title": "hello"
 }
