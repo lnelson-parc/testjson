@@ -5,6 +5,12 @@
       "title": "Howdy"
     }
   ],
+  "pings": [
+    {
+      "status": true,
+      "message": "Status shoukd be true"
+    }
+  ],
   "profile": {
     "name": "typicode"
   }
