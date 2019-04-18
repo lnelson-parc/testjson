@@ -7,7 +7,7 @@
   ],
   "pings": [
     {
-      "status": true,
+      "status": "true",
       "message": "Status shoukd be true"
     }
   ],
